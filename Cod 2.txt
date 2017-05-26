@@ -1,4 +1,6 @@
-instruccion 1
+instruccion 1 modificada por usuario 2
+nueva linea agregada por usuario 2
 instruccion 3
 instruccion 4 modificada por usuario 1
 instruccion 5
+
