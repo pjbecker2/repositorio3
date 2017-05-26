@@ -1,2 +1,5 @@
+/*comentarios de la
+funcionalidad del código*/
+
 contenido del 
 archivo cod 1
